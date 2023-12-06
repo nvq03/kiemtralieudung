@@ -57,6 +57,8 @@ text-decoration: none;
 
 </style>
 
+// this example comment
+
 <?php
    include "connect.php";
 
