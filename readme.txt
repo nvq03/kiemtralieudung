@@ -6,9 +6,9 @@ Project: Kiểm Tra Liều Dùng
 
   **Nhóm có các thành viên sau đây:
 
-- Nguyễn Văn Quý: 50% đóng góp
+- Nguyễn Văn Quý: 40% đóng góp
   + Công việc: Code Backend cho web app
-- Huỳnh Châu Nghị: 25% đóng góp
+- Huỳnh Châu Nghị: 35% đóng góp
   + Công việc: Code giao diện cho web app
 - Nguyễn Tuấn Việt: 25% đóng góp
   + Công việc: Thiết kế figma prototype
