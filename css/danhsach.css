@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'SVN-Gilroy', sans-serif;
+}
+.container{
+    background-color: #fff;
+    padding-bottom: 150px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
+}
+.container-danhsach {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    padding-top: 50px;;
+}
+.container-danhsach table th{
+    padding: 10px;
+    font-family: var(--main-text-font);
+    font-size: 20px; 
+    color: #333;
+    border-collapse:collapse ;   
+}
+.container-danhsach table td{
+    font-size: 15px;
+    font-weight: bold;
+}
+.container-danhsach table{
+    width: 70%;
+    height: 200px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse; /* Để đảm bảo các đường kẻ không bị tách rời */
+}
+.container-danhsach table{
+    border: 1px solid #000 ;
+}
+.container-danhsach table tr {
+    border-bottom: 2px solid #000;
+}
+.container-danhsach table tr:last-child {
+    border-bottom: 1px solid #000;
+}
+th ,td {
+    padding: 8px;
+    
+}
