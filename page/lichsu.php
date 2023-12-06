@@ -86,7 +86,7 @@ text-decoration: none;
 
 <form action="#" style="height: auto;padding: 10px;">
         <h1>Thông Tin Đơn Thuốc</h1>
-        <p>tesst</p>
+        <p>tessst</p>
         <div class="container-thongtin" style="  border: 1px solid #000;padding: 5px;">
             <table class="table" style="  border-collapse: separate;border-spacing: 5px;">
                 <tr>
